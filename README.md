@@ -6,16 +6,18 @@ Example 1:
 
 Input: arr = [2,1]
 Output: false
+<br>
 Example 2:
 
 Input: arr = [3,5,5]
 Output: false
+<br>
 Example 3:
 
 Input: arr = [0,3,2,1]
 Output: true
  
-
+<br>
 Constraints:
 
 1 <= arr.length <= 104
